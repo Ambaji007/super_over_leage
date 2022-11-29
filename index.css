@@ -1,0 +1,10 @@
+/* Write your code here. */
+.greeting {
+  font-family: roboto;
+  font-weight: bold;
+  font-size: large;
+}
+
+.bg_contaier {
+  background-color: blue;
+}
